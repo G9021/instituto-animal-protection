@@ -1,0 +1,85 @@
+index.html
+Mostrar mais linhas
+Passo 3
+
+Apague qualquer texto que aparecer e cole:
+
+HTML
+1
+<!DOCTYPE html>
+2
+<html lang="pt-BR">
+3
+<head>
+4
+<meta charset="UTF-8">
+5
+<title>Instituto Animal Protection</title>
+6
+</head>
+7
+<body>
+8
+<header>
+9
+<h1>Instituto Animal Protection</h1>
+10
+ 
+11
+<nav>
+12
+index.htmlInício</a>
+13
+projetos.htmlProjetos</a>
+14
+<adastro.htmlCadastro</a>
+15
+</nav>
+16
+</header>
+17
+ 
+18
+<main>
+19
+<section>
+20
+<h2>Quem Somos</h2>
+21
+<p>O Instituto Animal Protection é uma organização dedicada à proteção, resgate e bem-estar dos animais.</p>
+22
+</section>
+23
+ 
+24
+<section>
+25
+<h2>Missão</h2>
+26
+<p>Promover o cuidado, proteção e adoção responsável dos animais.</p>
+27
+</section>
+28
+ 
+29
+<section>
+30
+<h2>Visão</h2>
+31
+<p>Ser referência em proteção animal e conscientização da sociedade.</p>
+32
+</section>
+33
+</main>
+34
+ 
+35
+<footer>
+36
+<p>© 2026 Instituto Animal Protection</p>
+37
+</footer>
+38
+</body>
+39
+</html>
